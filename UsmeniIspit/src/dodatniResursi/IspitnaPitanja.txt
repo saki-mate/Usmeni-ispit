@@ -1,0 +1,21 @@
+1.	Dijagram  sluÄ�aja koriÅ¡Ä‡enja
+2.	Dijagrami aktivnosti
+3.	Klasa na dijagramu
+4.	Veza na dijagramu klasa
+5.	Klasa asocijacije, Parametrizirana klasa, Kvalifikovana asocijacija, OgraniÄ�enja asocijacije
+6.	Dijagrami sekvenci 
+7.	Dijagrami saradnje
+8.	Dijagrami stanja 
+9.	Dijagram paketa
+10.	Dijagram komponenti
+11.	Dijagram razmeÅ¡taja
+12.	Å ta je informacioni sistem
+13.	Å½ivotni ciklus softvera
+14.	Modeli razvoja softvera
+15.	Zahtevi
+16.	Testiranje softvera
+17.	Analiza sluÄ�aja koriÅ¡Ä‡enja (Entitet klase,  GraniÄ�ne klase, Kontrol klase)
+18.	Arhitektura sistema
+19.	Softverska arhitektura
+20.	Osnovni koncepti objektno-orijentisanog pristupa
+21.	Principi dizajna
